@@ -1,0 +1,14 @@
+group,name,sel,mock,err,mds_names,libfracsurvive
+118,4ug-rep2d,mut-virus-rep2d-118-4ug,mut-virus-rep2d,wt-DNA-rep2,118-4ug-rep2d,0.005177235
+118,8ug-rep2d,mut-virus-rep2d-118-8ug,mut-virus-rep2d,wt-DNA-rep2,118-8ug-rep2d,0.000167766
+118,4ug-rep3d,mut-virus-rep3d-118-4ug,mut-virus-rep3d,wt-DNA-rep3,118-4ug-rep3d,0.0051816779999999995
+118,8ug-rep3d,mut-virus-rep3d-118-8ug,mut-virus-rep3d,wt-DNA-rep3,118-8ug-rep3d,0.0006734689999999999
+3BNC117,3ug-rep2b,mut-virus-rep2b-3BNC117-3ug,mut-virus-rep2b,wt-DNA-rep2,3BNC117-3ug-rep2b,0.009847121
+3BNC117,4ug-rep2b,mut-virus-rep2b-3BNC117-4ug,mut-virus-rep2b,wt-DNA-rep2,3BNC117-4ug-rep2b,0.022027114
+3BNC117,4ug-rep3b,mut-virus-rep3b-3BNC117-4ug,mut-virus-rep3b,wt-DNA-rep3,3BNC117-4ug-rep3b,0.006474654
+3BNC117,4ug-rep1b,mut-virus-rep1b-3BNC117-4ug,mut-virus-rep1b,wt-DNA-rep1,3BNC117-4ug-rep1b,0.008765432
+VRC01,11ug-rep1,mut-virus-rep1-VRC01-11ug,mut-virus-rep1,wt-DNA-rep1,VRC01-11ug-rep1,0.002029
+VRC01,11ug-rep3,mut-virus-rep3-VRC01-11ug,mut-virus-rep3,wt-DNA-rep3,VRC01-11ug-rep3,0.007226000000000001
+VRC01,11ug-rep3-tr2,mut-virus-rep3-VRC01-tr2-11ug,mut-virus-rep3,wt-DNA-rep3,VRC01-11ug-rep3-tr2,0.001008
+VRC01,11ug-rep2,mut-virus-rep2-VRC01-11ug,mut-virus-rep2,wt-DNA-rep2,VRC01-11ug-rep2,0.009826999999999999
+VRC01,8ug-rep2,mut-virus-rep2-VRC01-8ug,mut-virus-rep2,wt-DNA-rep2,VRC01-8ug-rep2,0.027775
