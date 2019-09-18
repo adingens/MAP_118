@@ -1,7 +1,7 @@
 
 # Mutational antigenic profiling of 1-18
 ### Adam S. Dingens, Jesse Bloom
-### In collabortation with Florian Klein's group, particularly Philipp Schommers and Henning Gruell.
+### In collaboration with Florian Klein's group, particularly Philipp Schommers and Henning Gruell.
 
 We are performing mutational antigenic profiling of 1-18, using the BG505.T332N mutant Env libraries, first described and characterized in [Haddox, Dingens et al 2018](https://elifesciences.org/articles/34420). The triplicate mutant libraries examined here correspond to the three BG505 replicates in this paper. Replicates annotated with an additional letter (i.e. "rep 1b") were done on an indepdent day and have their own mock selected control. 
 
